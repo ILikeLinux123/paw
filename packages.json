@@ -1,0 +1,16 @@
+{
+  "test package": [
+    {
+      "url": "https://github.com/ILikeLinux123/Corgi-OS",
+      "description": "OS",
+      "dependencies": ""
+    }
+  ],
+  "test package2": [
+    {
+      "url": "https://github.com/ILikeLinux123/Corgi-OS",
+      "description": "OS2",
+      "dependencies": "2"
+    }
+  ]
+}
