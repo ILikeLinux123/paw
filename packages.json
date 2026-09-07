@@ -1,13 +1,13 @@
 [
   {
-    "name": "test package",
+    "name": "test1",
     "url": "https://github.com/ILikeLinux123/Corgi-OS",
     "description": "OS",
     "dependencies": ""
   },
   {
-    "name": "test package2",
-    "url": "https://github.com/ILikeLinux123/Corgi-OS",
+    "name": "test2",
+    "url": "https://github.com/ILikeLinux123/Corgi-OS3",
     "description": "OS2",
     "dependencies": "2"
   }
