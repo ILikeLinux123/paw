@@ -3,12 +3,18 @@
     "name": "test1",
     "url": "https://github.com/ILikeLinux123/Corgi-OS",
     "description": "OS",
+    "Author": "ILikeLinux123",
+    "Version": "1.2",
+    "ogpack": "https://github.com/ILikeLinux123/Corgi-OSog",
     "dependencies": ""
   },
   {
     "name": "test2",
     "url": "https://github.com/ILikeLinux123/Corgi-OS3",
     "description": "OS2",
+      "Author": "ILikeLinux123",
+    "Version": "1.2",
+    "ogpack": "https://github.com/ILikeLinux123/Corgi-OSog",
     "dependencies": "2"
   }
 ]
